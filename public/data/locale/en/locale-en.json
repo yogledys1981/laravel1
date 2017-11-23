@@ -1,0 +1,17 @@
+{
+ "msg01": "User and/or key are empty.",
+ "msg02": "Sending...",
+ "msg03": "User and/or password and/or level are empty.",
+ "msg04": "Searching...",
+ "msg05": "Recording...",
+ "msg06": "Removing...",
+ "msg07": "Generating pdf...",
+ "msg08": "Closing session...",
+ "msg09": "Press Yes to go to Home",
+
+ "msg98": "The error status code is : ",
+ "msg99": "Error status text is: ",
+  
+ "title01": "Error",
+ "title02": "Message"
+}

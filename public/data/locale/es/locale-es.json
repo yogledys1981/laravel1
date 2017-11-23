@@ -1,0 +1,17 @@
+{
+ "msg01": "Usuario y/o clave estan vac&iacute;os.",
+ "msg02": "Enviando...",
+ "msg03": "Usuario y/o clave y/o nivel estan vac&iacute;os.",
+ "msg04": "Buscando...",
+ "msg05": "Grabando...",
+ "msg06": "Eliminando...",
+ "msg07": "Generando pdf...",
+ "msg08": "Cerrando Sesi&oacute;n...",
+ "msg09": "Presione S&iacute; para ir a Inicio",
+
+ "msg98": "El c&oacute;digo del status del error es : ",
+ "msg99": "El texto del status del error es: ",
+
+ "title01": "Error",
+ "title02": "Mensaje"
+}

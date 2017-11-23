@@ -1,0 +1,12 @@
+{
+    "name": "gv/manejodestrings",
+    "description": "Paquete que contiene una cantidad de metodos para manejar strig y que nos permite explicar Packages y Service Providers",
+    "license": "GNU/GPL",
+    "authors": [
+        {
+            "name": "Edgar Gonzalez,",
+            "email": "edgargonzalezmunoz@gmail.com"
+        }
+    ],
+    "require": {}
+}

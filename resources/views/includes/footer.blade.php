@@ -1,0 +1,1 @@
+<div id="copyright text-right">© Copyright 2017 <a href='http://egonzale.org' target='_blank'>egonzale.org</a></div>

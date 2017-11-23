@@ -1,0 +1,18 @@
+{
+ "msg01": "Benutzer und / oder Passwort sind leer.",
+ "msg02": "Senden ...",
+ "msg03": "Benutzer und / oder Passwort und / oder Ebene sind leer.",
+ "msg04": "Suchen ...",
+ "msg05": "Aufnahme ...",
+ "msg06": "Eliminieren ...",
+ "msg07": "PDF generieren ...",
+ "msg08": "Abschlusssitzung ...",
+ "msg09": "Drücken Sie auf Abbrechen, um zu Start zu gelangen.",
+
+ "msg98": "Der Fehlerstatuscode lautet: ",
+ "msg99": "Der Text des Fehlerstatus lautet: ",
+
+ "title01": "Fehler",
+ "title02": "Nachricht"
+}
+
